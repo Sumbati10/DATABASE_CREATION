@@ -1,7 +1,7 @@
-# Database Management System for Libraray Management
+# Database Management System for Library Management
 
 ## Project Title
-** Database Management System**
+**Database Management System**
 
 ## Description
 This project is a fully implemented database management system for **[library]**. It showcases a real-world application where users can manage and query data using MySQL. The system is designed to handle complex relationships and manage large datasets effectively.
@@ -30,11 +30,9 @@ The database schema consists of the following main entities (tables):
 ### ERD (Entity-Relationship Diagram)
 The ERD for the database can be found here:
 
-[Link to ERD on dbdiagram.io](https://dbdiagram.io/d/your_erd_link)
 
-Or, you can view the ERD image here:
 
-![ERD](https://link_to_your_erd_image.com)
+![ERD](https://github.com/Sumbati10/DATABASE_CREATION/blob/main/ERD.png)
 
 ## How to Run/Setup the Project
 
@@ -44,8 +42,13 @@ Or, you can view the ERD image here:
 - Access to the terminal/command line
 
 ### Setup Instructions
+1. Clone this repository to your local machine.
+2. Open MySQL Workbench or any MySQL client.
+3. Run the SQL file to create the tables and relationships in the database.
+4. You can start querying the database to insert, update, or delete records.
 
-1. **Clone the repository:**
-   Clone this project to your local machine using the following command:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+## Conclusion
+This project demonstrates how to design and implement a full-featured relational database system using MySQL. The system is modular and can be extended to include more features such as searching, filtering, or advanced querying.
+
+## License
+MIT License
